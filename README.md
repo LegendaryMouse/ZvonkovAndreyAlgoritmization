@@ -14,10 +14,18 @@
 
 
 
-
-
-
-
-
-
-не забыть удалить https://heroplugins.com/products/plugins/
+# HTML Теги
+- `<!DOCTYPE html>`
+- `<html>`
+- `<head>`
+- `<link>`
+- `<meta>`
+- `<title>`
+- `<body>`
+- `<style>`
+- `<div>`
+- `<canvas>`
+- `<input>`
+- `<button>`
+- `<script>`
+- `<a>`
