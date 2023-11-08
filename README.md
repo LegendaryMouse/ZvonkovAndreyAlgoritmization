@@ -37,3 +37,5 @@
 ## https://freelance.habr.com/freelancers/ZvonkovAndrei
 # Replt
 ## https://replt.com/@AndrewLMouse
+# Практика
+## https://drive.google.com/drive/folders/1LNTuvy7rL4kbwzzsTC1Ty_RSgvYu-yPP
