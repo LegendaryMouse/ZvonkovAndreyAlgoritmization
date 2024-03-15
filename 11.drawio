@@ -1,0 +1,62 @@
+<mxfile host="app.diagrams.net" modified="2024-03-15T07:40:21.255Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="sZThcGiJu2UdqyAR38l9" version="24.0.7" type="device">
+  <diagram name="Страница — 1" id="CZmfLBO6WHf6ZvAAMJ1s">
+    <mxGraphModel dx="1386" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0tlU2G7sLi1nAekYESAy-1" value="инпут размера ковра&lt;div&gt;&amp;nbsp;&amp;nbsp;Dk = int(input())&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="143" y="60" width="190" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="XkHN6QqEtRAhm9QhTz3F-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0tlU2G7sLi1nAekYESAy-5" target="_qfTZCxsxrqSNRsuiKKv-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="48" y="548" />
+              <mxPoint x="48" y="265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0tlU2G7sLi1nAekYESAy-5" value="Диагональ левая:&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; i == j&lt;/span&gt;&lt;div&gt;Диагональ правая: i + j == Dk - 1&lt;/div&gt;&lt;div&gt;С двух сторон стенки: i in [0, Dk - 1]&lt;/div&gt;&lt;div&gt;Пол и потолок: j in [0, Dk - 1]&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap; color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;Д%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22or%20j%20in%20%5B0%2C%20Dk%20-%201%5D%5D%20%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B1%D0%B5%D0%BB%D0%B0%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22220%22%20y%3D%22470%22%20width%3D%22190%22%20height%3D%2295%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap; color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22or%20j%20in%20%5B0%2C%20Dk%20-%201%5D%5D%20%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B1%D0%B5%D0%BB%D0%B0%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22220%22%20y%3D%22470%22%20width%3D%22190%22%20height%3D%2295%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; text-wrap: nowrap; color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="134.5" y="500" width="207" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="_qfTZCxsxrqSNRsuiKKv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0tlU2G7sLi1nAekYESAy-7" target="0tlU2G7sLi1nAekYESAy-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tlU2G7sLi1nAekYESAy-7" value="&lt;div&gt;for i in range(Dk)&lt;/div&gt;&lt;div&gt;&amp;nbsp;for j in range(Dk)&lt;/div&gt;&lt;div&gt;выводит значения i и j&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="143" y="360" width="190" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="0tlU2G7sLi1nAekYESAy-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0tlU2G7sLi1nAekYESAy-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="523" y="390" as="sourcePoint" />
+            <mxPoint x="238" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0tlU2G7sLi1nAekYESAy-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_qfTZCxsxrqSNRsuiKKv-1" target="0tlU2G7sLi1nAekYESAy-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="305" as="sourcePoint" />
+            <mxPoint x="234.58999999999992" y="355.81999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XkHN6QqEtRAhm9QhTz3F-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_qfTZCxsxrqSNRsuiKKv-1" target="_qfTZCxsxrqSNRsuiKKv-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="428" y="265" />
+              <mxPoint x="428" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_qfTZCxsxrqSNRsuiKKv-1" value="в цикл row вводятся условия&lt;div&gt;&amp;nbsp;для создания ковра&amp;nbsp;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="68" y="225" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_qfTZCxsxrqSNRsuiKKv-3" value="Выводит фигуру&lt;div&gt;print(*row)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="185" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_qfTZCxsxrqSNRsuiKKv-10" value="Конец цикла" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_qfTZCxsxrqSNRsuiKKv-11" value="Далее по программе" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
